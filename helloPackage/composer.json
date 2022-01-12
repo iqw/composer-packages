@@ -1,0 +1,15 @@
+{
+    "name": "iqw/hello-package",
+    "autoload": {
+        "psr-4": {
+            "Iqw\\HelloPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "iqw",
+            "email": "the.iqw@gmail.com"
+        }
+    ],
+    "require": {}
+}

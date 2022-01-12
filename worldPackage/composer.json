@@ -1,0 +1,15 @@
+{
+    "name": "iqw/world-package",
+    "autoload": {
+        "psr-4": {
+            "Iqw\\WorldPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "iqw",
+            "email": "the.iqw@gmail.com"
+        }
+    ],
+    "require": {}
+}
